@@ -1,0 +1,12 @@
+.productCard {
+  background: var(--secondary-background);
+  padding: 1rem;
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr;
+  cursor: pointer;
+}
+
+.cardTextArea {
+  font-size: 0.8rem;
+}

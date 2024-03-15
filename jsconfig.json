@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "components": ["components"],
+            "queries": ["queries"],
+            "util": ["util"],
+            "apollo": ["apollo"],
+            "prismic": ["prismic"],
+            "pageStyles": ["pageStyles"]
+        }
+    }
+}
